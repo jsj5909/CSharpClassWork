@@ -1,0 +1,14 @@
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\bin\Debug\net8.0\CSharpClassWork.exe
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\bin\Debug\net8.0\CSharpClassWork.deps.json
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\bin\Debug\net8.0\CSharpClassWork.runtimeconfig.json
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\bin\Debug\net8.0\CSharpClassWork.dll
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\bin\Debug\net8.0\CSharpClassWork.pdb
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.AssemblyInfoInputs.cache
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.AssemblyInfo.cs
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.csproj.CoreCompileInputs.cache
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.dll
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\refint\CSharpClassWork.dll
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.pdb
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\CSharpClassWork.genruntimeconfig.cache
+C:\Users\jsj59\OneDrive\Documents\GitHub\CSharpClassWork\CSharpClassWork\obj\Debug\net8.0\ref\CSharpClassWork.dll
